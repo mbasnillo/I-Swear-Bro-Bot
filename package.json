@@ -1,0 +1,16 @@
+{
+  "name": "i-swear-bro-bot",
+  "version": "1.0.0",
+  "description": "Among Us bot accessory for the Gentle Giants server",
+  "main": "bot.js",
+  "author": "Miles Lawrence",
+  "type": "module",
+  "scripts": {
+    "start": "babel-node bot.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
